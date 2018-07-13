@@ -1,0 +1,14 @@
+.body-container{
+    border-style: ridge;
+
+}
+#body-container{
+    display: flex ;
+
+}
+.header-main{
+    border-style :inherit;
+}
+#header-main{
+    border-style :inherit;
+}
